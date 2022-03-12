@@ -1,6 +1,6 @@
 # Work Day Scheduler Starter Code
 
- <img src="Assets/Calendar.png" alt="task calendar example" width="1206" />
+ <img src="assets/Calendar.png" alt="task calendar example" width="1206" />
 
 I added the appropriate classes to my newly created HTML divs.  Today's date is shown at the top of the page with the help of Moment().
 
